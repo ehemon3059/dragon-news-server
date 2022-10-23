@@ -1,0 +1,5 @@
+1. make a folder for express js
+2. npm init -y
+3. make index.js
+4. npm i express
+5. share your data with other server >>>>> npm install cors
